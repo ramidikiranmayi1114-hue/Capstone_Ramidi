@@ -5,7 +5,7 @@
 Predicting 30-day Readmission 
 
 ### Team: 
-Team Phoenix — @janedoe, @johndoe 
+Team Phoenix — Kirinmayi, Ali, Saleh, Ankur 
 
 ### Objective:  
 Build reproducible EHR pipeline and predictive model
